@@ -1,4 +1,4 @@
-# typora-picgo-personal
+# picgo-personal
 
 用于存放 Markdown 文档中的图片，目前以 Typora 作为 Markdown 编辑器。
 
